@@ -1,0 +1,1 @@
+Smart Cart is a modern e-commerce web application designed to provide a seamless online shopping experience. It offers a user-friendly interface, secure transactions, and a wide range of products across multiple categories. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), Smart Cart ensures high performance, scalability, and an interactive user experience.
